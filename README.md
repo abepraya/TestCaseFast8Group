@@ -1,6 +1,10 @@
 # TestCaseFast8Group
 Test case hadirr.com &amp; automationpractice.com
 
+Tools : Katalon Studio
+Language : Groovy / Java
+OS : Windows 10
+
 Test Case hadirr.com :
 
 Sign In :
